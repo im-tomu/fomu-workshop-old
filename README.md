@@ -24,6 +24,11 @@ h2 {
 }
 </style>
 
+<span style="font-size: 32px; font-color: red;">
+This is the <b>old</b> workshop and <b>no longer updated.</b><br>
+The new version can be found at <a href="https://workshop.fomu.im">https://workshop.fomu.im</a>
+</span>
+
 # Fomu Workshop
 
 ![Hi, I'm Fomu!](img/logo.png "Fomu logo")
