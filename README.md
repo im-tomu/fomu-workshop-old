@@ -22,12 +22,20 @@ blockquote:before {
 h2 {
   margin-top: 4em;
 }
+
+b {
+  font-weight: bolder;
+}
 </style>
 
-<span style="font-size: 32px; font-color: red;">
+
+
+<span style="font-size: 32px; color: red;">
 This is the <b>old</b> workshop and <b>no longer updated.</b><br>
 The new version can be found at <a href="https://workshop.fomu.im">https://workshop.fomu.im</a>
 </span>
+
+
 
 # Fomu Workshop
 
